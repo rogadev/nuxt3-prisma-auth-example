@@ -12,9 +12,13 @@
     "@nuxtjs/tailwindcss": "^6.6.0",
     "@tailwindcss/typography": "^0.5.9",
     "nuxt": "^3.3.1",
-    "nuxt-icon": "^0.3.3"
+    "nuxt-icon": "^0.3.3",
+    "prisma": "^4.11.0"
   },
   "dependencies": {
-    "daisyui": "^2.51.4"
+    "@prisma/client": "^4.11.0",
+    "bcrypt": "^5.1.0",
+    "daisyui": "^2.51.4",
+    "zod": "^3.21.4"
   }
 }

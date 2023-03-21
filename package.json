@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/color-mode": "^3.2.0",
+    "@nuxtjs/tailwindcss": "^6.6.0",
+    "@tailwindcss/typography": "^0.5.9",
+    "nuxt": "^3.3.1",
+    "nuxt-icon": "^0.3.3"
+  },
+  "dependencies": {
+    "daisyui": "^2.51.4"
+  }
+}
